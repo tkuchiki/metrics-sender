@@ -1,0 +1,6 @@
+/tmp/
+/pkg/
+/src/
+/bin/
+/vendor/
+metrics-sender
